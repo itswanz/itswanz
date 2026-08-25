@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I’m just a student.:
 Stayin' quiet ain't gon' fix the problem, but it ain't gon' cause one either.<br>I’m still a beginner in coding.
 
 
