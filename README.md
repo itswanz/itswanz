@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/48dca9bf-cf26-4f0a-967d-48dafbbd6cdf" width="100%"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 # 💫 I'm just a student.:
 Stayin' quiet ain't gon' fix the problem, but it ain't gon' cause one either.<br>I'm still a beginner in coding.
@@ -11,5 +13,13 @@ Stayin' quiet ain't gon' fix the problem, but it ain't gon' cause one either.<br
 ![](https://streak-stats.demolab.com/?user=itswanz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itswanz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</td>
+<td width="40%" valign="top">
+<img src="https://github.com/user-attachments/assets/48dca9bf-cf26-4f0a-967d-48dafbbd6cdf" width="100%"/>
+</td>
+</tr>
+</table>
+
 ---
 [![](https://komarev.com/ghpvc/?username=itswanz&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
