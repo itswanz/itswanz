@@ -9,10 +9,6 @@ Stayin' quiet ain't gon' fix the problem, but it ain't gon' cause one either.<br
 ![](https://streak-stats.demolab.com/?user=itswanz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itswanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itswanz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 </td>
 <td width="40%" valign="top">
 <img src="https://github.com/user-attachments/assets/48dca9bf-cf26-4f0a-967d-48dafbbd6cdf" width="100%"/>
